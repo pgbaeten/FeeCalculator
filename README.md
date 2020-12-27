@@ -1,2 +1,2 @@
 # FeeCalculator
-Calculate eCommerce Fees 
+Calculate eCommerce Fees And Profits
